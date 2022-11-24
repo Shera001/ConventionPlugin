@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ConventionPlugin"
 include(":app")
+include(":Test")
